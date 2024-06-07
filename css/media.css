@@ -1,0 +1,122 @@
+/*Extra Small Devices*/ 
+/*xsm (320-480)*/ 
+
+@media only screen and (min-width: 320px) and (max-width: 480px)  {
+    .navbar-nav {
+        padding: 10px 0px;
+    }
+    .nav-item {
+        text-align: center;
+        background-color: transparent;
+        padding: 2px 0px;
+    }
+
+    .banner-content p {
+        font-size: 40px;
+    }
+    .what-we-do h1 {
+        font-size: 30px;
+    }
+
+    .who-we-are h1 {
+        font-size: 30px;
+    }
+
+    .attorneyes{
+        padding: 0px;
+    }
+
+    .languages h1 {
+        font-size: 30px;
+    }
+    .contact h1 {
+        font-size: 30px;
+    }
+    .languages-content{
+        margin-bottom: 20px;
+    }
+    .what-we-do-content{
+        display: flex;
+        justify-content: center !important;
+    }
+
+    
+    
+    
+    
+    }
+    
+/*Small Devices*/ 
+/*sm (481-767)*/ 
+    
+@media only screen and (min-width: 481px) and (max-width: 767px)  {
+    .navbar-nav {
+        padding: 10px 0px;
+    }
+
+    .nav-item {
+        text-align: center;
+        background-color: transparent;
+        padding: 2px 0px;
+    }
+
+    .banner-content p{
+        font-size: 50px;
+    }
+    .attorneyes{
+        padding: 0px 0px 50px;
+    }
+    .languages-content{
+        margin-bottom: 20px;
+    }
+
+}
+    
+    
+/*Medium Devices*/ 
+/*md (768-991)*/ 
+@media only screen and (min-width: 768px) and (max-width: 991px)  {
+    .navbar-nav {
+        padding: 10px 0px;
+    }
+
+    .nav-item {
+        text-align: center;
+        background-color: transparent;
+        padding: 2px 0px;
+    }
+
+    .what-we-do {
+        background-size: 500px;
+    }
+    
+    .languages-content h3 {
+        color: #204f87;
+        font-size: 18px;
+    }
+    
+}
+    
+    
+/*large Devices*/ 
+/*lg (992-1199)*/ 
+@media only screen and (min-width: 992px) and (max-width: 1199px)  {
+       
+    
+    
+    
+}
+    
+    
+/*Extra large Devices*/ 
+/*xlg (1200-1400)*/ 
+@media only screen and (min-width: 1200px) and (max-width: 1400px)  {
+    
+    
+    
+    
+    
+    
+    
+    
+}
